@@ -3,11 +3,11 @@
 A simple Python script that prints "Hello World" to the console.
 
 ## Project Structure
-
+```plaintext
 python-hello-world/
 ├── hello-world.py
 └── README.md
-
+```
 ## Description
 
 This project contains a basic Python script that demonstrates the classic "Hello World" program with a personalized signature.
