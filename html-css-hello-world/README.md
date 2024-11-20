@@ -3,11 +3,11 @@
 This project is a simple web page that displays "Hello, World!" using HTML and CSS.
 
 ## Project Structure
-
+```plaintext
 html-css-hello-world/
 ├── index.html
 └── styles.css
-
+```
 
 - `index.html`: The main HTML file that contains the structure of the web page.
 - `styles.css`: The CSS file that styles the web page.

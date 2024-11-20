@@ -6,6 +6,8 @@ Welcome to the Hello World Projects repository! This repository contains simple 
 
 1. **HTML/CSS Hello World**
    - A simple web page that displays "Hello, World!" using HTML and CSS.
+2. **Python Hello World**
+   - A Python script that prints "Hello World" to the console.
 
 ## Getting Started
 
