@@ -8,7 +8,10 @@ Welcome to the Hello World Projects repository! This repository contains simple 
    - A simple web page that displays "Hello, World!" using HTML and CSS.
 2. **Python Hello World**
    - A Python script that prints "Hello World" to the console.
-
+3.  **Java SpringBoot Hello World**
+   - A simple Spring Boot application that demonstrates a REST API returning "Hello, World!"
+4.  **CPP Hello World**
+   - A simple CPP program that prints "Hello World" to the console.
 ## Getting Started
 
 To get started with any of the projects, simply navigate to the respective project folder and follow the instructions in the individual `README.md` files.
