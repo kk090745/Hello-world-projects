@@ -12,6 +12,8 @@ Welcome to the Hello World Projects repository! This repository contains simple 
    - A simple Spring Boot application that demonstrates a REST API returning "Hello, World!"
 4. **C++ Hello World**
    - A simple C++ program that prints "Hello World" to the console.
+5. **Java Hello World**
+   - A Java program that prints "Hello, World!" to the console.
 
 ## Getting Started
 
